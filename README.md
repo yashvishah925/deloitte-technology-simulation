@@ -21,4 +21,4 @@ Task 2: Development Proposal – Real-Time Dashboard
 
  Certificate
 I successfully completed the simulation and earned a certificate.  
-![Certificate Screenshot](./deliotte job simulation certificate.pdf)  
+![Certificate Screenshot](./deloitte job simulation certificate.pdf)  
